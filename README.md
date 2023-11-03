@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nimmi Gopan</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
-![image](https://github.com/nimmigopan/nimmigopan/assets/35449494/ec53d7e7-abc5-4553-9432-bc3a17f054ee)
+![image](https://github.com/nimmigopan/nimmigopan/assets/35449494/cb1a4307-7f46-47f1-a195-0f2a78a74352)
+
 
 
 - 📫 How to reach me **nimmigopan@gmail.com**
